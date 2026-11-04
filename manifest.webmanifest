@@ -1,0 +1,9 @@
+{
+  "name": "ISTQB CTFL Study",
+  "short_name": "CTFL Study",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#ffffff",
+  "icons": []
+}
